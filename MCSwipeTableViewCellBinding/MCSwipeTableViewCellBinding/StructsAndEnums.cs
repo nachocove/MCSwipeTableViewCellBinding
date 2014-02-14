@@ -7,8 +7,8 @@ namespace MCSwipeTableViewCellBinding
         None = 0,
         State1 = 1,
         State2 = 2,
-        State3 = 3,
-        State4 = 4,
+        State3 = 4,
+        State4 = 8,
     }
 
     public enum MCSwipeTableViewCellMode : uint
