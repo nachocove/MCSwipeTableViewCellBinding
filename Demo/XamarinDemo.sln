@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinDemo", "XamarinDemo\XamarinDemo.csproj", "{C9F796F8-82D6-49D3-85D2-230C66015D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCSwipeTableViewCellBinding", "..\MCSwipeTableViewCellBinding\MCSwipeTableViewCellBinding\MCSwipeTableViewCellBinding.csproj", "{E301B932-D165-4A65-8916-3E80C000B6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Release|iPhone.Build.0 = Release|iPhone
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C9F796F8-82D6-49D3-85D2-230C66015D48}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Release|iPhone.Build.0 = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{E301B932-D165-4A65-8916-3E80C000B6AC}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = XamarinDemo\XamarinDemo.csproj
+	EndGlobalSection
+EndGlobal

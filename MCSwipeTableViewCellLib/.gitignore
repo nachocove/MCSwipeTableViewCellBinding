@@ -1,0 +1,4 @@
+build
+libMCSwipeTableViewCellLib-armv7.a
+libMCSwipeTableViewCellLib-i386.a
+libMCSwipeTableViewCellLibSDK.a
